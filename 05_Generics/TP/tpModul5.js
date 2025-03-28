@@ -1,4 +1,4 @@
-// 4. MENAMBAHKAN METHOD DENGAN GENERIC
+// MENAMBAHKAN METHOD DENGAN GENERIC
 class HaloGeneric {
     static SapaUser(user) {
         console.log(`Halo user ${user}`);
@@ -7,7 +7,7 @@ class HaloGeneric {
 
 HaloGeneric.SapaUser("Muhammad Fariz Nur Hidayat");
 
-// 6. MENAMBAHKAN CLASS DENGAN GENERIC
+// MENAMBAHKAN CLASS DENGAN GENERIC
 class DataGeneric {
     constructor(data) {
         this.data = data;
