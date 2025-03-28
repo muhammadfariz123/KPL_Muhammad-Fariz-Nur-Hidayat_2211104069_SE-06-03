@@ -38,3 +38,20 @@ class SayaTubeVideo {
         console.log(`Play Count: ${this.playCount}`);
     }
 }
+
+// Program utama
+// Membuat instance dari SayaTubeVideo dan menguji fungsionalitasnya
+try {
+    const video = new SayaTubeVideo("Tutorial Design By Contract - Muhammad Fariz Nur Hidayat");
+    video.printVideoDetails();
+    
+    video.increasePlayCount(10000000);
+    video.printVideoDetails();
+    
+    // Pengujian exception dengan melakukan penambahan play count berulang kali
+    for (let i = 0; i < 5; i++) {
+        video.increasePlayCount(10000000);
+    }
+} catch (error) {
+    console.error("Error:", error.message);
+}
