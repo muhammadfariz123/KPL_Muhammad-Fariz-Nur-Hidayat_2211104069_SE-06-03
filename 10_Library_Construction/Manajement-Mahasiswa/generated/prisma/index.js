@@ -135,7 +135,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\user\\OneDrive\\Desktop\\KPL_Muhammad-Fariz-Nur-Hidayat_2211104069_SE-06-03\\Management-Mahasiswa\\generated\\prisma",
+      "value": "D:\\Manajement-Mahasiswa\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -149,7 +149,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\KPL_Muhammad-Fariz-Nur-Hidayat_2211104069_SE-06-03\\Management-Mahasiswa\\prisma\\schema.prisma",
+    "sourceFilePath": "D:\\Manajement-Mahasiswa\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
