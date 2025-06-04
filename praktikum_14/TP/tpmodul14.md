@@ -2,7 +2,7 @@
 ## Tugas Pendahuluan Modul 5 – Generics
 
 ### I. Pendahuluan
-Pada Tugas Jurnal Modul 14 ini, saya diminta untuk memilih salah satu tugas pendahuluan yang telah saya kerjakan pada modul-modul sebelumnya (modul 2 hingga modul 13). Saya memilih untuk melakukan refactoring pada tugas pendahuluan **Modul 5 - Generics**, di mana saya diminta untuk membuat kode yang menggunakan konsep **Generics** dalam bahasa pemrograman JavaScript.
+Pada Tugas Pendahuluan Modul 14 ini, saya diminta untuk memilih salah satu tugas pendahuluan yang telah saya kerjakan pada modul-modul sebelumnya (modul 2 hingga modul 13). Saya memilih untuk melakukan refactoring pada tugas pendahuluan **Modul 5 - Generics**, di mana saya diminta untuk membuat kode yang menggunakan konsep **Generics** dalam bahasa pemrograman JavaScript.
 
 Tugas tersebut melibatkan pembuatan kelas dan metode yang dapat digunakan dengan tipe data yang berbeda. Dalam proses refactoring ini, saya berfokus untuk memperbaiki dan merapikan kode yang sudah ada, dengan mengikuti standar kode yang digunakan dalam **.NET** (meskipun saya menggunakan JavaScript). Saya memastikan bahwa kode yang dihasilkan memenuhi beberapa standar penting, antara lain: **Naming Convention**, **White Space dan Indentation**, **Deklarasi Variabel**, dan **Komentar**. Tujuan dari refactoring ini adalah untuk meningkatkan keterbacaan, konsistensi, dan kualitas kode secara keseluruhan.
 
