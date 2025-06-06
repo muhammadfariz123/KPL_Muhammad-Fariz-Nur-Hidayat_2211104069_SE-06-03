@@ -13,3 +13,4 @@ console.log(`Nama saya adalah ${name}
 var name = "ayam"
 
 let fullName = "Muhammad Fariz Nur Hidayat"
+
