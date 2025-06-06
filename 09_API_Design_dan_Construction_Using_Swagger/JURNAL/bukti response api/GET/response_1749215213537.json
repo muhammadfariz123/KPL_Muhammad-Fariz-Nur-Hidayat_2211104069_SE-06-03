@@ -1,0 +1,29 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "stars": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "stars": [
+      "Marlon Brando",
+      "Al Pacino"
+    ],
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "stars": [
+      "Christian Bale",
+      "Heath Ledger"
+    ],
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+  }
+]
