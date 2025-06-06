@@ -1,5 +1,5 @@
-# Laporan Refactoring Kode – tpModul14_2211104069
-## Tugas Pendahuluan Modul14
+# Laporan Refactoring Kode – tpModul 14 (NIM: 2211104069)
+## Tugas Pendahuluan Modul 5 – Generics
 
 ### I. Pendahuluan
 Pada Tugas Pendahuluan Modul 14 ini, saya diminta untuk memilih salah satu tugas pendahuluan yang telah saya kerjakan pada modul-modul sebelumnya (modul 2 hingga modul 13). Saya memilih untuk melakukan refactoring pada tugas pendahuluan **Modul 5 - Generics**, di mana saya diminta untuk membuat kode yang menggunakan konsep **Generics** dalam bahasa pemrograman JavaScript.
@@ -150,5 +150,4 @@ static sapaUser(user) {
 Melalui proses refactoring ini, saya telah memperbaiki dan merapikan kode yang sebelumnya kurang mengikuti standar pengkodean yang baik. Semua aspek penamaan, struktur kode, dan dokumentasi telah diperbaiki agar lebih sesuai dengan konvensi penulisan kode yang baik dan mudah dipahami. Selain itu, refactoring ini juga meningkatkan kualitas dan keterbacaan kode sehingga lebih mudah untuk dipelihara dan dikembangkan di masa depan.
 
 Dengan refactoring yang dilakukan, kode menjadi lebih konsisten, rapi, dan siap untuk digunakan dalam pengembangan lebih lanjut, serta lebih mudah untuk dipahami oleh orang lain yang bekerja dengan kode ini di masa depan.
-
 
