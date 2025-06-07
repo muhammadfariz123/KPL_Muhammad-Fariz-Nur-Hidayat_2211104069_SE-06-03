@@ -145,6 +145,13 @@ static sapaUser(user) {
 - Komentar ini membantu orang lain yang membaca kode untuk segera memahami apa yang dilakukan oleh metode tersebut tanpa harus membaca seluruh implementasinya.
 
 ---
+### Hasil Run Kode Setelah Refactoring
+
+![Image](https://github.com/user-attachments/assets/4b957321-0cfb-48d3-a7a9-54b63b1cb4ee)
+
+Gambar di atas menunjukkan bahwa kode berhasil dijalankan dengan normal setelah proses refactoring. Semua fungsi bekerja sesuai dengan yang diharapkan, tanpa adanya error atau masalah yang muncul selama eksekusi. Refactoring dilakukan untuk meningkatkan struktur dan efisiensi kode, sehingga aplikasi dapat berjalan lebih optimal.
+
+---
 
 ### III. Kesimpulan
 Melalui proses refactoring ini, saya telah memperbaiki dan merapikan kode yang sebelumnya kurang mengikuti standar pengkodean yang baik. Semua aspek penamaan, struktur kode, dan dokumentasi telah diperbaiki agar lebih sesuai dengan konvensi penulisan kode yang baik dan mudah dipahami. Selain itu, refactoring ini juga meningkatkan kualitas dan keterbacaan kode sehingga lebih mudah untuk dipelihara dan dikembangkan di masa depan.
